@@ -1,4 +1,4 @@
-# MeanCource
+# Mean Sample Project (Mongo, Express, Angular and Node)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
